@@ -1,0 +1,102 @@
+name: Mental_Health
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0
+build_number: 1
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  english_words: ^4.0.0
+  provider: ^6.0.0
+  image_picker: ^0.8.3
+  shared_preferences: ^2.0.11
+  youtube_player_flutter: ^8.1.0
+  postgres: ^2.0.0
+  http: ^0.13.3
+  path_provider: ^2.0.2
+  image_compare: ^1.1.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Icons/friends.png
+    - assets/Icons/notifications.png
+    - assets/Icons/privacyPolicy.png
+    - assets/Icons/support.png
+    - assets/Icons/usingConditions.png
+    - assets/Icons/Lotus.png
+    - assets/Images/DayOffer.jpg
+    - assets/Images/News.png
+    - assets/Icons/MainIcon.png
+    - assets/Icons/PlusIcon.png
+    - assets/Icons/ProfileIcon.png
+    - assets/Images/Yoga.jpg
+    - assets/Images/Meditation.jpg
+    - assets/Images/Training.jpg
+    - assets/Images/Creation.jpg
+    - assets/Icons/settings.png
+    - assets/Icons/statistics.png
+
+    - assets/Icons/Arrow.png
+    - assets/Icons/Calendar.png
+    - assets/Icons/Calendar2.png
+    - assets/Icons/ArrowRight.png
+    - assets/Icons/SmileAwful.png
+    - assets/Icons/SmileBad.png
+    - assets/Icons/SmileGood.png
+    - assets/Icons/SmileGreat.png
+    - assets/Icons/SmileSoSo.png
+    - assets/Icons/NotionIcons/Care.png
+    - assets/Icons/NotionIcons/Communication.png
+    - assets/Icons/NotionIcons/Creation.png
+    - assets/Icons/NotionIcons/CulturalEvent.png
+    - assets/Icons/NotionIcons/DoingSport.png
+    - assets/Icons/NotionIcons/GoodDeed.png
+    - assets/Icons/NotionIcons/Gratitude.png
+    - assets/Icons/NotionIcons/HealthyNutrition.png
+    - assets/Icons/NotionIcons/HealthySleep.png
+    - assets/Icons/NotionIcons/HeartConversation.png
+    - assets/Icons/NotionIcons/Hobby.png
+    - assets/Icons/NotionIcons/KeepingDiary.png
+    - assets/Icons/NotionIcons/LearningNew.png
+    - assets/Icons/NotionIcons/Meditation.png
+    - assets/Icons/NotionIcons/NetworksLimit.png
+    - assets/Icons/NotionIcons/PleasantAtmosphere.png
+    - assets/Icons/NotionIcons/SolvingProblem.png
+    - assets/Icons/NotionIcons/TimeToRest.png
+    - assets/Icons/NotionIcons/TimeWithFamily.png
+    - assets/Icons/NotionIcons/TimeWithYourself.png
+    - assets/Icons/NotionIcons/TryNewOne.png
+    - assets/Icons/NotionIcons/UsefulHabits.png
+    - assets/Icons/NotionIcons/Walk.png
+    - assets/Icons/NotionIcons/YogaClass.png
+    - assets/Images/News1.jpg
+    - assets/Images/News3.jpg
+    - assets/Images/News4.jpg
+    - assets/Images/News5.jpg
+    - assets/Images/DayOffer2.jpg
+    - assets/Icons/Video.png
+    - assets/Images/Yoga1.jpg
+    - assets/Images/Yoga3.jpg
+    - assets/Images/Yoga6.jpg
+    - assets/Images/Yoga7.jpg
+    - assets/Images/Yoga10.jpg
+
+

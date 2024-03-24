@@ -1,0 +1,122 @@
+[
+  {
+    "percentage": 50.0,
+    "name": "Занятие спортом",
+    "count": 1
+  },
+  {
+    "percentage": 50.0,
+    "name": "Прогулка",
+    "count": 1
+  },
+  {
+    "percentage": 100.0,
+    "name": "Здоровый сон",
+    "count": 2
+  },
+  {
+    "percentage": 50.0,
+    "name": "Полезное питание",
+    "count": 1
+  },
+  {
+    "percentage": 50.0,
+    "name": "Медитация",
+    "count": 1
+  },
+  {
+    "percentage": 50.0,
+    "name": "Благодарность",
+    "count": 1
+  },
+  {
+    "percentage": 50.0,
+    "name": "Доброе дело",
+    "count": 1
+  },
+  {
+    "percentage": 0.0,
+    "name": "Занятие йогой",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Общение с людьми",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Время с семьей",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Разговор по душам",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Решение проблемы",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Изучение нового",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Лимит соц сетей",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Приятная атмосфера",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Время на отдых",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Хобби",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Творчество",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Культурное событие",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Попробовать новое",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Уход",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Время с собой",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Полезные привычки",
+    "count": 0
+  },
+  {
+    "percentage": 0.0,
+    "name": "Ведение дневника",
+    "count": 0
+  }
+]
